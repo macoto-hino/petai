@@ -1,0 +1,34 @@
+{
+    "item-petwhistle": "ペットホイッスル",
+    "item-magicbone": "魔法のホネ",
+    "itemdesc-petwhistle": "ペットを操作するコマンドです。しゃがむ＋右クリックでコマンドを選択。右クリックでコマンドを実行します。",
+    "itemdesc-magicbone": "右クリックで目の前の生き物を瞬時に手懐け、100％従わせることが出来ます。",
+    
+    "gui-command-title": "コマンドを選択して下さい",
+    "gui-command-simple": "簡易コマンド:",
+    "gui-command-sit": "おすわり",
+    "gui-command-lay": "ふせ",
+    "gui-command-speak": "ワンワン",
+    "gui-command-complex": "複雑なコマンド:",
+    "gui-command-followmaster": "ついてきて",
+    "gui-command-stay": "まて",
+    "gui-command-aggressionlevel": "攻撃性レベル:",
+    "gui-command-aggressive": "ガンガンいこうぜ",
+    "gui-command-protective": "まもって",
+    "gui-command-neutral": "あるがままに",
+    "gui-command-passive": "パッシブ",
+    "gui-command-backpackinv": "ペットインベントリー",
+    "gui-command-dropgear": "すべてドロップ",
+    "gui-command-settarget": "目標を設定",
+
+    "gui-pet-obedience":"懐き度: {0}%",
+    "gui-pet-disobey":"ペットが懐いていません。必要な懐き度は{0}%です。",
+
+    "gui-name-title": "名前を選んで下さい",
+    "gui-name-ok": "OK",
+
+    "message-tended-to": "{0}の現在の進捗状況は{1}%です。",
+    "message-not-ready": "{0}は再び世話をする準備が出来ていません。",
+    "message-startet-taming": "{0}の飼い馴らしに成功、現在の進捗は{1}%です。",
+    "message-finished-taming": "{0}の飼い馴らしに成功しました。"
+}
