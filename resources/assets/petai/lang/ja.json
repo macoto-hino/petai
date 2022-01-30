@@ -1,0 +1,38 @@
+{
+    "item-petwhistle": "ペットホイッスル",
+    "item-magicbone": "魔法のホネ",
+    "itemdesc-petwhistle": "ペットを操作するコマンドです。しゃがむ＋右クリックでコマンドを選択。右クリックでコマンドを実行します。",
+    "itemdesc-magicbone": "右クリックで目の前の生き物を瞬時に手懐け、100％従わせることが出来ます。",
+    
+    "gui-command-title": "マンドを選択して下さい",
+    "gui-command-simple": "簡易コマンド:",
+    "gui-command-sit": "お座り",
+    "gui-command-lay": "伏せ",
+    "gui-command-speak": "吠えろ",
+    "gui-command-complex": "複雑なコマンド:",
+    "gui-command-followmaster": "追従",
+    "gui-command-stay": "待機",
+    "gui-command-aggressionlevel": "攻撃性レベル:",
+    "gui-command-aggressive": "攻撃的",
+    "gui-command-protective": "保護的",
+    "gui-command-neutral": "中立",
+    "gui-command-passive": "消極的",
+    "gui-command-backpackinv": "ペットインベントリー",
+    "gui-command-dropgear": "全て回収",
+    "gui-command-settarget": "目標を設定",
+
+    "gui-pet-owner": "飼い主: {0}",
+    "gui-pet-obedience":"懐き度: {0}%",
+    "gui-pet-disobey":"ペットが懐いていません。必要な懐き度は{0}%です。",
+
+    "gui-name-title": "名前を選んで下さい",
+    "gui-name-ok": "OK",
+
+    "message-tended-to": "{0}の現在の進捗状況は{1}%です。",
+    "message-not-ready": "{0}は再び世話をする準備が出来ていません。",
+    "message-startet-taming": "{0}の飼い馴らしに成功、現在の進捗は{1}%です。",
+    "message-finished-taming": "{0}の飼い馴らしに成功しました。",
+
+    "petaiguide-title": "飼い馴らしガイド：一般的な概念",
+    "petaiguide-text": "<strong>飼い馴らしガイド：一般的な概念</strong>\n\nこのガイドでは、MOD「Pet AI」の飼い馴らしの仕組みについて説明します。\n\nペットAI自体は、飼い馴らし可能な生き物を導入していません。これは、他のMODがペットをより簡単に作成出来るようにする為の骨組みに過ぎないのです。ほとんどのペットは、プレイヤーからのコマンドを受け取ることが出来るようにになります。ペットにコマンドを与えるには、しゃがんでペットを右クリックします。ペットが受け付ける様々なコマンドを含む小さなGUIが開きます。ただし、飼い主がしっかりしていないと、ペットは命令を実行しないので、注意が必要です。 一般的には、定期的に食事を与えることですが、ペットと一緒に遊べるような活動を行うことも含まれます。\n\nペットAIは現在、ペットの攻撃性を4段階に分けてサポートしています。:\n<strong>消極的:</strong> ペットは誰にも危害を加えません。\n<strong>中立:</strong> ペットは攻撃されたときだけ攻撃します。\n<strong>保護的:</strong> ペットは味方として戦い、邪悪な生き物から守り、敵対者を追い詰めます。\n<strong>攻撃的:</strong> ペットが一部の生き物を攻撃するようになります。\n\nペットを遠隔操作してみたいという衝動に駆られたら、ペットホイッスルをチェックしてみて下さい。 また、狩猟の際にもペットの使い勝手が良くなります。"
+}
